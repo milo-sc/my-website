@@ -1,15 +1,17 @@
 import styles from "./styles.module.css";
 
 import Image from "next/image";
-import Link from "next/link";
 
 import Footer from "@/components/footer/Footer";
+import Header from "@/components/header/Header";
 
 export default function Home() {
   return (
     <div className={styles.page}>
-      <Link href="/about">Visit About Page</Link>
+      {/* Header Element */}
+      <Header />
 
+      {/* Main */}
       <main className={styles.main}>
         <Image
           className={styles.logo}

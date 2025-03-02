@@ -1,0 +1,13 @@
+.header {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  width: 100vw;
+  height: 20vh;
+  background-color: #7851A9;
+}
+
+.header link {
+  padding: none;
+  text-decoration: none;
+}
