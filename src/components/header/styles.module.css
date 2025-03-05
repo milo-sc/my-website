@@ -1,13 +1,12 @@
 .header {
-  display: grid;
+  display: flex;
   align-items: center;
-  justify-items: center;
+  justify-content: space-between;
   width: 100vw;
-  height: 20vh;
+  height: 10svh;
   background-color: #7851A9;
 }
 
-.header link {
-  padding: none;
-  text-decoration: none;
+.aboutPage {
+  padding: 1rem;
 }

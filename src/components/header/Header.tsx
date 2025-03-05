@@ -7,9 +7,8 @@ import Name from "../name/Name";
 export default function Header() {
   return (
     <header className={styles.header}>
-      <a> test text </a>
       <Name />
-      <Link href="/about">Visit About Page</Link>
+      <Link href="/about" className={styles.aboutPage}>About Page</Link>
     </header>
   )
 }

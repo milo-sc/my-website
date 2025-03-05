@@ -7,7 +7,7 @@
   --button-secondary-hover: rgb(255, 255, 255);
 
   display: grid;
-  grid-template-rows: 20px 1fr 20px;
+  grid-template-rows: 10svh 60svh 10svh;
   align-items: center;
   justify-items: center;
   min-height: 100svh;
