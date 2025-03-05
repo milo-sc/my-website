@@ -7,6 +7,10 @@
   background-color: #7851A9;
 }
 
-.aboutPage {
+.header a {
   padding: 1rem;
+}
+
+.header a:hover {
+  color: #4169E1;
 }
