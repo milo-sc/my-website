@@ -3,7 +3,10 @@ import styles from "./styles.module.css";
 export default function About() {
   return (
     <main className={styles.page}>
-      <h1>About Us</h1>
+      <a href="/">
+        About Us
+      </a>
+
       <p>
         Learn more about our company and mission.
       </p>

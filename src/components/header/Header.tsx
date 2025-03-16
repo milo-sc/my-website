@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <Name />
-      <Link href="/about" className={styles.aboutPage}>About Me</Link>
+      <a href="/about" className={styles.aboutPage}>About Me</a>
     </header>
   )
 }
