@@ -1,7 +1,5 @@
 import styles from "./styles.module.css";
 
-import Link from "next/link";
-
 import Name from "../name/Name";
 
 export default function Header() {
