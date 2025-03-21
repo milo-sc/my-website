@@ -8,5 +8,5 @@ export default function Header() {
       <Name />
       <a href="/about" className={styles.aboutPage}>About Me</a>
     </header>
-  )
+  );
 }

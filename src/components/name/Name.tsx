@@ -5,5 +5,5 @@ export default function Name() {
     <div className={styles.name}>
       <h1> Victor Wu </h1>
     </div>
-  )
+  );
 }
