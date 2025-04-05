@@ -12,7 +12,7 @@ export default function About() {
         </a>
 
         <p>
-          Learn more about our company and mission.
+          I love coding and analytics
         </p>
         
         {/* Example Navigation Link */}
