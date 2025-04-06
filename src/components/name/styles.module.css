@@ -1,5 +1,10 @@
-.name {
+.name a {
   color: white;
   font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
   padding: 1rem;
+}
+
+.name a:hover {
+  color: #4169E1;
 }

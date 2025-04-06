@@ -7,8 +7,8 @@ export default function About() {
     <div>
       <Header />
       <main className={styles.page}>
-        <a href="/">
-          About Us
+        <a>
+          {/* About Me */}
         </a>
 
         <p>
