@@ -15,7 +15,6 @@ export default function About() {
           I love coding and analytics
         </p>
         
-        {/* Example Navigation Link */}
         <a href="/">
           ← Back to Home
         </a>
