@@ -11,7 +11,9 @@ export default function Home() {
 
       {/* Main */}
       <main className={styles.main}>
-        <h1> Welcome! </h1>
+        <h1> Hello! </h1>
+
+        <span> Projects </span>
       </main>
 
       {/* Footer Element */}

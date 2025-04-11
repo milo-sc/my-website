@@ -16,7 +16,7 @@ export default function About() {
         </p>
         
         <a href="/">
-          ← Back to Home
+          {/* ← Back to Home */}
         </a>
       </main>
     </div>
