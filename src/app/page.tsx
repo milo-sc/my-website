@@ -6,7 +6,6 @@ import Header from "@/components/header/Header";
 export default function Home() {
   return (
     <div className={styles.page}>
-      {/* Header Element */}
       <Header />
 
       {/* Main */}
@@ -16,7 +15,6 @@ export default function Home() {
         <span> Projects </span>
       </main>
 
-      {/* Footer Element */}
       <Footer />
     </div>
   );
