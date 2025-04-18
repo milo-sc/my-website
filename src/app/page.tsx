@@ -12,7 +12,10 @@ export default function Home() {
       <main className={styles.main}>
         <h1> Hello! </h1>
 
+        <a href="/about"> Learn more </a>
+
         <span> Projects </span>
+        
       </main>
 
       <Footer />
