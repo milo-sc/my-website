@@ -10,7 +10,7 @@ export default function Home() {
 
       {/* Main */}
       <main className={styles.main}>
-        <h1> Hello! My name is Victor Wu, and I love numbers! </h1>
+        <h1> Hello! My name is Victor Wu, and I love numbers and coding! </h1>
 
         <a href="/about"> Learn more </a>
 
