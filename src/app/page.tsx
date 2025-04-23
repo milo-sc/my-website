@@ -16,6 +16,7 @@ export default function Home() {
 
         <span> Projects </span>
         
+        <span> GracefulNY Website </span>
       </main>
 
       <Footer />
