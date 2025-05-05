@@ -21,6 +21,9 @@ export default function Home() {
         <span> My Website </span>
 
         <span> Previous Job </span>
+        <span> Reporting Analyst </span>
+
+        <span> I really hate how Apple decides never to put things in cloud unless its coding things </span>
       </main>
 
       <Footer />
