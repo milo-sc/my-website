@@ -24,6 +24,7 @@ export default function Home() {
         <span> Reporting Analyst </span>
 
         <span> I really hate how Apple decides never to put things in cloud unless its coding things </span>
+        <span> like comon man </span>
       </main>
 
       <Footer />
