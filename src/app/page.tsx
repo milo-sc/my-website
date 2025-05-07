@@ -22,9 +22,7 @@ export default function Home() {
 
         <span> Previous Job </span>
         <span> Reporting Analyst </span>
-
-        <span> I really hate how Apple decides never to put things in cloud unless its coding things </span>
-        <span> like comon man </span>
+        <span> - Created weekly reports for upper management on metrics from Google Analytics </span>
       </main>
 
       <Footer />
