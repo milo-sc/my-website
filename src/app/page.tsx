@@ -23,6 +23,7 @@ export default function Home() {
         <span> Previous Job </span>
         <span> Reporting Analyst </span>
         <span> - Created weekly reports for upper management on metrics from Google Analytics </span>
+        <span> - Created monthly reports with visualizations </span>
       </main>
 
       <Footer />
