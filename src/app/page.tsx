@@ -24,6 +24,7 @@ export default function Home() {
         <span> Reporting Analyst </span>
         <span> - Created weekly reports for upper management on metrics from Google Analytics </span>
         <span> - Created monthly reports with visualizations </span>
+        <span> - Participated in weekly standups to give higher management a view of whats happening </span>
       </main>
 
       <Footer />
