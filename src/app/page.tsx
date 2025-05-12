@@ -17,7 +17,10 @@ export default function Home() {
         <span> Projects </span>
         
         <span> GracefulNY Website </span>
+        <span> - Utilized Typescript to create a website that can switch between English and Chinese </span>
+
         <span> Data Analytics Project </span>
+
         <span> My Website </span>
 
         <span> Previous Job </span>
@@ -25,6 +28,7 @@ export default function Home() {
         <span> - Created weekly reports for upper management on metrics from Google Analytics </span>
         <span> - Created monthly reports with visualizations </span>
         <span> - Participated in weekly standups to give higher management a view of whats happening </span>
+        
       </main>
 
       <Footer />
